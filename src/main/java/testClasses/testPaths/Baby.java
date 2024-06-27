@@ -1,7 +1,7 @@
-package src.main.java.testClasses.testPaths;
+package testClasses.testPaths;
 
-import src.main.java.testClasses.Child;
-import src.main.java.testClasses.Person;
+import testClasses.Child;
+import testClasses.Person;
 
 import java.io.Serializable;
 

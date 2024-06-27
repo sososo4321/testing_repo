@@ -1,4 +1,4 @@
-package src.main.java.testXmiProject;
+package testXmiProject;
 
 public class Basics {
     static String aPath = "weGoWhereWeWantToBe";

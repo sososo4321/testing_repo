@@ -1,4 +1,4 @@
-package src.main.java.testClasses;
+package testClasses;
 
 import java.io.Serializable;
 //external package

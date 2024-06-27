@@ -1,4 +1,4 @@
-package src.main.java.testClasses;
+package testClasses;
 
 public interface Person {
 

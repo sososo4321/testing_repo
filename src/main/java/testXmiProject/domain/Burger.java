@@ -1,4 +1,4 @@
-package src.main.java.testXmiProject.domain;
+package testXmiProject.domain;
 
 public class Burger {
 }

@@ -1,4 +1,4 @@
-package src.main.java.testAssociation.anotherDepth;
+package testAssociation.anotherDepth;
 
 public class Drink {
     String water = "drinking";

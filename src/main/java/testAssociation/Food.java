@@ -1,4 +1,4 @@
-package src.main.java.testAssociation;
+package testAssociation;
 
 public class Food {
     String base;

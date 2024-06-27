@@ -1,6 +1,6 @@
-package src.main.java.testAssociation;
+package testAssociation;
 
-import src.main.java.testAssociation.anotherDepth.Drink;
+import testAssociation.anotherDepth.Drink;
 
 public class People {
     Drink toDrink = new Drink("my Drink");
