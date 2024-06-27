@@ -1,4 +1,7 @@
 package src.main.java.testClasses;
 
-public class Parent implements Person{
+import java.io.Serializable;
+//external package
+
+public class Parent implements Serializable {
 }
