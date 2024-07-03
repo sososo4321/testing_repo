@@ -6,4 +6,7 @@ import testClasses.Person;
 import java.io.Serializable;
 
 public class Baby extends Child implements Person, Serializable {
+    public Integer babyGone(){
+        return 5;
+    }
 }
